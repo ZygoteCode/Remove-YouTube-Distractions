@@ -3,11 +3,11 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.3
 // @description  Remove all the YouTube distractions to get concentrated on what's really important
-// @author       GabryB03
+// @author       ZygoteCode
 // @match        https://www.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
-// @updateURL    https://github.com/GabryB03/Remove-YouTube-Distractions/raw/main/RemoveYouTubeDistractions.user.js
-// @downloadURL  https://github.com/GabryB03/Remove-YouTube-Distractions/raw/main/RemoveYouTubeDistractions.user.js
+// @updateURL    https://github.com/ZygoteCode/Remove-YouTube-Distractions/raw/main/RemoveYouTubeDistractions.user.js
+// @downloadURL  https://github.com/ZygoteCode/Remove-YouTube-Distractions/raw/main/RemoveYouTubeDistractions.user.js
 // @grant        none
 // ==/UserScript==
 
